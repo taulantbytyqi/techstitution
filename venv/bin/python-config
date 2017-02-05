@@ -1,4 +1,4 @@
-#!/home/taulant/Desktop/test/venv/bin/python
+#!/home/taulant/Desktop/techstitution/venv/bin/python
 
 import sys
 import getopt
